@@ -4,7 +4,6 @@
 **Docente:** Mag. Elian R. Laura Riveros
 **Grupo:** Equipo 1 – Dataset HRF (High-Resolution Fundus)
 
-Este proyecto segmenta los vasos sanguíneos de imágenes de fondo de ojo usando **solo procesamiento digital de imágenes clásico**. Las reglas del examen no permiten machine learning ni deep learning. Se comparan al menos dos pipelines distintos contra la segmentación manual del dataset, usando el coeficiente de Dice y el índice de Jaccard.
 
 ---
 
